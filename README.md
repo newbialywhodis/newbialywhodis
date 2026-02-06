@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Konrad 👋
 
-<!--
-**newbialywhodis/newbialywhodis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Poland.
 
-Here are some ideas to get you started:
+I build practical things with a focus on clean logic, performance, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work with
+
+- JavaScript / TypeScript  
+- Next.js  
+- FiveM (Lua)  
+- SQL / basic backend stuff  
+- Git & GitHub  
+
+---
+
+## Current focus
+
+- **Polar Roleplay** – high-quality FiveM roleplay server  
+- Server-side logic & systems  
+- Refactoring, removing duplication, making things solid
+**BloatSQL** – lightweight, pretty DB client
+- Everything!
+
+---
+
+## Interests
+
+- UI
+- Automation & tooling
+- AI as a daily dev helper
+- BILLIE EILISH.
+
+---
+
+## Languages
+
+- Polish (native)
+- English (B2)
+
