@@ -19,7 +19,7 @@ I enjoy creating products with clean architecture, good UX, and solid developer 
 
 ## Projects & focus
 
-### Polar Commerce
+### lotja
 Modern commerce stack built with:
 - Storefront in Next.js
 - Dashboard in Vite
